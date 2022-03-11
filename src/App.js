@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import Navbar from './components/elements/Navbar';
 import './App.css';
-import FavIcon from '../public/favicon.ico'
+import FavIcon from './favicon.ico'
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Crypto from './components/pages/Crypto';

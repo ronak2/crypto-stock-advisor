@@ -1,6 +1,7 @@
 import React,{useState} from 'react';
 import Navbar from './components/elements/Navbar';
 import './App.css';
+import FavIcon from '../public/favicon.ico'
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Crypto from './components/pages/Crypto';
@@ -33,7 +34,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' exact element={<Home />} />
+          <Route path='/favicon.ico' element={<FavIcon />} />
+          <Route path='/' element={<Home />} />
           <Route path='/crypto' element={<Crypto />} />
           <Route path='/stocks' element={<Stocks />} />
           <Route path='/forum' element={<Forum />} />

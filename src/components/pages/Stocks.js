@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import * as JSC from "jscharting";
 import '../../App.css';
+import SearchBar from '../SearchBar';
 import '../styles/Stocks.css'
-import StockTile from "../elements/StockTile"
+import Data from "../data.json"
+import StockTile from "../StockTile"
 import { Link } from 'react-router-dom';
 import moment from 'moment';
 const { default: axios } = require('axios');

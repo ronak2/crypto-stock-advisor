@@ -1,0 +1,15 @@
+.PageContainer{
+    width: auto;
+    margin: 2.5% 10% 2.5% 10%;
+}
+
+.SearchBar{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tile{
+    width: 25%;
+    display: inline-block;
+}

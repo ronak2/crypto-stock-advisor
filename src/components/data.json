@@ -1,0 +1,94 @@
+[
+    {
+        "Meta_Data" :{
+            "Information": "Daily Prices (open, high, low, close) and Volumes",
+            "Symbol" : "IBM",
+            "Last Refreshed": "2022-02-16",
+            "Output Size": "Compact",
+            "Time Zone": "US/Eastern"
+        },
+        "Time_Series":{
+            "2022-02-16": {
+                "open":	"129.4500",
+                "high":	"130.4400",
+                "low":	"128.2600",
+                "close":	"129.1800",
+                "volume":	"4871698"
+            }
+        }
+        
+    },
+    {
+        "Meta_Data" :{
+            "Information": "Daily Prices (open, high, low, close) and Volumes",
+            "Symbol" : "TSLA",
+            "Last Refreshed": "2022-02-16",
+            "Output Size": "Compact",
+            "Time Zone": "US/Eastern"
+        },
+        "Time_Series":{
+            "2022-02-16": {
+                "open":	"129.4500",
+                "high":	"130.4400",
+                "low":	"128.2600",
+                "close":	"129.1800",
+                "volume":	"4871698"
+            }
+        }
+    },
+    {
+        "Meta_Data" :{
+            "Information": "Daily Prices (open, high, low, close) and Volumes",
+            "Symbol" : "T",
+            "Last Refreshed": "2022-02-16",
+            "Output Size": "Compact",
+            "Time Zone": "US/Eastern"
+        },
+        "Time_Series":{
+            "2022-02-16": {
+                "open":	"129.4500",
+                "high":	"130.4400",
+                "low":	"128.2600",
+                "close":	"129.1800",
+                "volume":	"4871698"
+            }
+        }
+    },
+    {
+        "Meta_Data" :{
+            "Information": "Daily Prices (open, high, low, close) and Volumes",
+            "Symbol" : "F",
+            "Last Refreshed": "2022-02-16",
+            "Output Size": "Compact",
+            "Time Zone": "US/Eastern"
+        },
+        "Time_Series":{
+            "2022-02-16": {
+                "open":	"129.4500",
+                "high":	"130.4400",
+                "low":	"128.2600",
+                "close":	"129.1800",
+                "volume":	"4871698"
+            }
+        }
+    },
+    {
+        "Meta_Data" :{
+            "Information": "Daily Prices (open, high, low, close) and Volumes",
+            "Symbol" : "GM",
+            "Last Refreshed": "2022-02-16",
+            "Output Size": "Compact",
+            "Time Zone": "US/Eastern"
+        },
+        "Time_Series":{
+            "2022-02-16": {
+                "open":	"129.4500",
+                "high":	"130.4400",
+                "low":	"128.2600",
+                "close":	"129.1800",
+                "volume":	"4871698"
+            }
+        }
+    }
+    
+]

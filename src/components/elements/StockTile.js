@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./styles/Tile.css"
+import "../styles/Tile.css"
 
 export default function StockTile({symbol}){
     return(

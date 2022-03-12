@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './components/elements/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -11,10 +11,10 @@ import SignIn from './components/pages/SignIn';
 
 
 function App() {
-  const [token, setToken] = useState();
-  if(!token) {
-    return <SignIn setToken={setToken} />
-  }
+  // const [token, setToken] = useState();
+  // if(!token) {
+  //   return <SignIn setToken={setToken} />
+  // }
   return (
     <>
       <Router>

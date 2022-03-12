@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './styles/searchbar.css'
+import '../styles/searchbar.css'
 
 
 

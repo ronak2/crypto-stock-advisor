@@ -1,6 +1,6 @@
 # **Crypto-Stock Advisor** 
 #### Website URL: https://crypto-stock-advisor.herokuapp.com/
-#### Contributors: Ronak Trivedi, Maddy Wikstrom, Patryk Konieczny
+#### Creator: Ronak Trivedi
 
 <br>
 <br>

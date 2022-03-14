@@ -25,7 +25,7 @@ Many people want to learn how to trade cryptocurrencies and stocks, but the risk
 - #### CoinGecko API (for cryptocurrency data)
 - #### AlphaVantage API (for stock data)
 - #### Heroku (for hosting)
-- #### SQLite3
+- #### Google FireBase (for database)
 - #### Passport.js (for authentication)
 - #### Jest Testing Framework
 
